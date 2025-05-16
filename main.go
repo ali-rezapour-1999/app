@@ -16,3 +16,4 @@ func main() {
 
 	sum := number1 + number2
 	fmt.Println(sum)
+}
